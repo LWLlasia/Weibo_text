@@ -13,7 +13,7 @@
                         match_WB_man：微博所相关的话题或关键字
                         match_WB_img：微博内容里的表情包
                         match_WB_if_like：判断该微博为用户原创还是用户点赞的
-                        match_WB_other_name
+                        
        微博用户转发他人微博，针对他人的微博内容获取数据：
        WB_other.py:
        　　　　　　　　　　match_WB_other_nam:微博用户的姓名

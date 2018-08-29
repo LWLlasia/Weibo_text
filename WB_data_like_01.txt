@@ -1,0 +1,36 @@
+<id>1箱橙子</id>
+<like_list>
+<like>
+<like_weibo>陈伟霆樱花下自拍说到自拍陈伟霆表示五六十张最后也选不了一张啊其实我想说只要有颜值怎么拍都是帅的感受一下陈伟霆演绎的几种自拍方式可以说很形象了。​​​​</like_weibo>
+<like_origin>微话题-陈伟霆</like_origin>
+<like_id>传媒观察君</like_id>
+<like_@></like_@>
+<like_time> 今天 11:52</like_time>
+<like_emo>[doge]</like_emo>
+<id>1箱橙子</id>
+<like_list>
+<like>
+<like_weibo>央视春晚联排结束，李易峰、杨洋和陈伟霆分别离开演播大厅的时刻，分别被粉丝的镜头捕捉到。都是表演服装加黑羽绒服的配置。饭拍加上了爱的滤镜，拍出来真的秒了图库好多倍。​​​​</like_weibo>
+<like_origin></like_origin>
+<like_id>Chrison克里森</like_id>
+<like_@></like_@>
+<like_time> 2月13日 21:56</like_time>
+<like_emo></like_emo>
+<id>1箱橙子</id>
+<like_list>
+<like>
+<like_weibo>陈伟霆这些年驾驭过的发型，陈伟霆的颜值真的很‘能打’，无论什么发型发色都能够完美驾驭！​​​​</like_weibo>
+<like_origin>微博 weibo.com</like_origin>
+<like_id>娱乐八卦盘点</like_id>
+<like_@></like_@>
+<like_time> 1月19日 17:32</like_time>
+<like_emo></like_emo>
+<id>1箱橙子</id>
+<like_list>
+<like>
+<like_weibo>20点18分的时候，祝各位2018年新年快乐嘻嘻嘻嘻​​​​</like_weibo>
+<like_origin></like_origin>
+<like_id>杨紫</like_id>
+<like_@></like_@>
+<like_time> 1月1日 20:18</like_time>
+<like_emo>[好爱哦]</like_emo>
